@@ -31,29 +31,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
 </p>
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Add .gitattributes File</title>
-</head>
-<body>
-  <script type="text/javascript">
-    var fileContent = "*.extension linguist-language=LanguageName";
-
-    var element = document.createElement("a");
-    element.setAttribute("href", "data:text/plain;charset=utf-8," + encodeURIComponent(fileContent));
-    element.setAttribute("download", ".gitattributes");
-    element.style.display = "none";
-    document.body.appendChild(element);
-    element.click();
-    document.body.removeChild(element);
-  </script>
-</body>
-</html>
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihanimaleesha&show_icons=true&locale=en&layout=compact" alt="shihanimaleesha" /></p>
 
