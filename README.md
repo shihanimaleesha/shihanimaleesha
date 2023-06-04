@@ -25,6 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihanimaleesha&show_icons=true&locale=en" alt="shihanimaleesha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihanidayaratne&" alt="shihanidayartne" /></p>
--->
+
 
