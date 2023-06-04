@@ -2,20 +2,20 @@
 <h3 align="center">A passionate undergraduate that excited to conquers my targets in this technical world.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnhathurusingha&label=Profile%20views&color=0e75b6&style=flat" alt="dnhathurusingha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihanimaleesha&label=Profile%20views&color=0e75b6&style=flat" alt="shihanimaleesha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnhathurusingha" alt="dnhathurusingha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihanimaleesha" alt="shihanimaleesha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dnhathurusingha" target="blank"><img 
-- 📫 How to reach me **dewmihathurusingha@gmail.com**
+<p align="left"> <a href="https://twitter.com/https://twitter.com/shihanidayaratne" target="blank"><img 
+- 📫 How to reach me **shihani28@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/dnhathurusingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dnhathurusingha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/dewmi-hathurusingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/dewmi-hathurusingha" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dewmi.hathurusingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dewmi.hathurusingha" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dews_n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dews_n_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dnhathurusingha?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dnhathurusingha?hr_r=1" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/shihanidayaratne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shihanidayaratne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/dewmi-hathurusingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/shihanidayaratne" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shihani.dayaratne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shihani.dayaratne" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shi_haa_nii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dews_n_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/shihanidayaratne?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shihanidayaratne?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
